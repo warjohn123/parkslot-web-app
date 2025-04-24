@@ -10,7 +10,7 @@ export function ParkingSlotItem() {
       <Image
         src={exampleImg}
         alt="Picture of the parking slot"
-        className="rounded-2xl"
+        className="rounded-sm"
       />
       <div className="mt-2">
         <div className="flex justify-between">
