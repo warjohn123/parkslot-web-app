@@ -1,6 +1,6 @@
 import { IParkingSlot } from "@/@types/ParkingSlot";
 import space from "@/components/parkslot.jpg";
-import H2 from "@/components/typhography/H2";
+import H2 from "@/components/typography/H2";
 import Image from "next/image";
 
 interface ParkingSpaceDetailsProps {

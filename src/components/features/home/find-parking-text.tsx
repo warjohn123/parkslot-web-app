@@ -1,4 +1,4 @@
-import H1 from "@/components/typhography/H1";
+import H1 from "@/components/typography/H1";
 
 export default function FindParkingTitle() {
   return (
