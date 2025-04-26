@@ -47,6 +47,8 @@ export async function generateStaticParams() {
     return [];
   }
 
+  console.log("data", data);
+
   return (
     data?.map((slot) => ({
       id: slot.id.toString(),
